@@ -17,6 +17,28 @@ I have taken attributes like Monthly Average Temperatures on the basis of countr
 
 ### Packages used
 **sklearn, numpy, pandas, matplotlib, seaborn**
+# Exploratory Data Analysis
+Performed some analysis to better undertsand the data.
+
+<img src="https://github.com/Vaibhavnaudiyal92/Global-Temperature-Analysis-and-Prediction-/blob/master/download%20(5).png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="https://github.com/Vaibhavnaudiyal92/Global-Temperature-Analysis-and-Prediction-/blob/master/download%20(7).png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+<img src="https://github.com/Vaibhavnaudiyal92/Global-Temperature-Analysis-and-Prediction-/blob/master/download%20(4).png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
+<img src="https://github.com/Vaibhavnaudiyal92/Global-Temperature-Analysis-and-Prediction-/blob/master/download%20(6).png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="https://github.com/Vaibhavnaudiyal92/Global-Temperature-Analysis-and-Prediction-/blob/master/download%20(3).png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+     
 
 # Conclusion
 Right now, I have used just one model without using GridSearchCV and other parameter tuning. I have used Root Mean Squared Error technique for meterics evaluation. With using and comparing more models, I am sure we can get a better functioning model than the current one.
